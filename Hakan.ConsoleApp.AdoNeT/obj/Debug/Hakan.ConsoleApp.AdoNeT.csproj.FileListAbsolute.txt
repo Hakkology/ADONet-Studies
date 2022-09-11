@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\bin\Debug\Hakan.ConsoleApp.AdoNeT.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\bin\Debug\Hakan.ConsoleApp.AdoNeT.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\bin\Debug\Hakan.ConsoleApp.AdoNeT.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\obj\Debug\Hakan.ConsoleApp.AdoNeT.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\obj\Debug\Hakan.ConsoleApp.AdoNeT.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\obj\Debug\Hakan.ConsoleApp.AdoNeT.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\obj\Debug\Hakan.ConsoleApp.AdoNeT.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW7\Hakan.ConsoleApp.AdoNeT\Hakan.ConsoleApp.AdoNeT\obj\Debug\Hakan.ConsoleApp.AdoNeT.pdb
